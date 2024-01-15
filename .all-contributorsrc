@@ -342,7 +342,55 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/61752998?v=4",
       "profile": "https://apee.top",
       "contributions": [
+        "plugin",
+        "video"
+      ]
+    },
+    {
+      "login": "DanielMazurkiewicz",
+      "name": "Daniel Mazurkiewicz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2885673?v=4",
+      "profile": "https://github.com/DanielMazurkiewicz",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Atmos4",
+      "name": "Atmos4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32951942?v=4",
+      "profile": "https://github.com/Atmos4",
+      "contributions": [
+        "code",
         "plugin"
+      ]
+    },
+    {
+      "login": "kwameopareasiedu",
+      "name": "Kwame Opare Asiedu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26204283?v=4",
+      "profile": "https://github.com/kwameopareasiedu",
+      "contributions": [
+        "plugin",
+        "example"
+      ]
+    },
+    {
+      "login": "ali-alnasser570",
+      "name": "ali-alnasser570",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104535769?v=4",
+      "profile": "https://github.com/ali-alnasser570",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "auryn31",
+      "name": "Auryn Engel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24471955?v=4",
+      "profile": "http://blog.auryn.dev",
+      "contributions": [
+        "video"
       ]
     }
   ],

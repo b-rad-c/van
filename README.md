@@ -133,12 +133,15 @@ Contact us: [@taoxin](https://twitter.com/intent/follow?region=follow_link&scree
 
 **VanJS** can be extended via add-ons. Add-ons add more features to **VanJS** and/or provide an alternative styled API. Below is a curated list of add-ons built by **VanJS** community:
 
-* [van_dml.js](./addons/van_dml): adds a a new flavour of composition to **VanJS**. Author: [Eckehard](https://github.com/efpage).
-* [van-jsx](./addons/van_jsx): a JSX wrapper for **VanJS**, for people who like the JSX syntax more. Author: [cqh963852](https://github.com/cqh963852).
+* [van_dml.js](/addons/van_dml): adds a a new flavour of composition to **VanJS**. Author: [Eckehard](https://github.com/efpage).
+* [van-jsx](/addons/van_jsx): a JSX wrapper for **VanJS**, for people who like the JSX syntax more. Author: [cqh963852](https://github.com/cqh963852).
 * [Van Cone](/addons/van_cone/): an SPA framework add-on for **VanJS**. Author: [b-rad-c](https://github.com/b-rad-c).
 * [vanjs-router](https://github.com/iuroc/vanjs-router): A router solution for **VanJS** (`README.md` in simplified Chinese). Author: [欧阳鹏](https://github.com/iuroc).
+* [VanJS Routing](https://github.com/kwameopareasiedu/vanjs-routing): Yet another routing solution for **VanJS**. Author: [Kwame Opare Asiedu](https://github.com/kwameopareasiedu).
+* [van_component](/addons/van_component/): An add-on to easily add web components with **VanJS**. Author: [Atmos4](https://github.com/Atmos4).
+* [VanJS Form](https://github.com/kwameopareasiedu/vanjs-form): Fully typed form state management library (with validation) for **VanJS**. Author: [Kwame Opare Asiedu](https://github.com/kwameopareasiedu).
 
-## Contributors (35)
+## Contributors (40)
 
 *If I miss anyone's contribution here, apologies for my oversight 🙏, please comment on [#87](https://github.com/vanjs-org/van/issues/87) to let me know.*
 
@@ -192,7 +195,14 @@ Contact us: [@taoxin](https://twitter.com/intent/follow?region=follow_link&scree
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jfillmore"><img src="https://avatars.githubusercontent.com/u/873867?v=4?s=100" width="100px;" alt="Jonny Fillmore"/><br /><sub><b>Jonny Fillmore</b></sub></a><br /><a href="https://github.com/vanjs-org/van/issues?q=author%3Ajfillmore" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/limaneto"><img src="https://avatars.githubusercontent.com/u/6009780?v=4?s=100" width="100px;" alt="Lima Neto"/><br /><sub><b>Lima Neto</b></sub></a><br /><a href="#content-limaneto" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/b-rad-c"><img src="https://avatars.githubusercontent.com/u/25362581?v=4?s=100" width="100px;" alt="b rad c"/><br /><sub><b>b rad c</b></sub></a><br /><a href="https://github.com/vanjs-org/van/commits?author=b-rad-c" title="Code">💻</a> <a href="#plugin-b-rad-c" title="Plugin/utility libraries">🔌</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://apee.top"><img src="https://avatars.githubusercontent.com/u/61752998?v=4?s=100" width="100px;" alt="欧阳鹏"/><br /><sub><b>欧阳鹏</b></sub></a><br /><a href="#plugin-iuroc" title="Plugin/utility libraries">🔌</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://apee.top"><img src="https://avatars.githubusercontent.com/u/61752998?v=4?s=100" width="100px;" alt="欧阳鹏"/><br /><sub><b>欧阳鹏</b></sub></a><br /><a href="#plugin-iuroc" title="Plugin/utility libraries">🔌</a> <a href="#video-iuroc" title="Videos">📹</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DanielMazurkiewicz"><img src="https://avatars.githubusercontent.com/u/2885673?v=4?s=100" width="100px;" alt="Daniel Mazurkiewicz"/><br /><sub><b>Daniel Mazurkiewicz</b></sub></a><br /><a href="https://github.com/vanjs-org/van/commits?author=DanielMazurkiewicz" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Atmos4"><img src="https://avatars.githubusercontent.com/u/32951942?v=4?s=100" width="100px;" alt="Atmos4"/><br /><sub><b>Atmos4</b></sub></a><br /><a href="https://github.com/vanjs-org/van/commits?author=Atmos4" title="Code">💻</a> <a href="#plugin-Atmos4" title="Plugin/utility libraries">🔌</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kwameopareasiedu"><img src="https://avatars.githubusercontent.com/u/26204283?v=4?s=100" width="100px;" alt="Kwame Opare Asiedu"/><br /><sub><b>Kwame Opare Asiedu</b></sub></a><br /><a href="#plugin-kwameopareasiedu" title="Plugin/utility libraries">🔌</a> <a href="#example-kwameopareasiedu" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ali-alnasser570"><img src="https://avatars.githubusercontent.com/u/104535769?v=4?s=100" width="100px;" alt="ali-alnasser570"/><br /><sub><b>ali-alnasser570</b></sub></a><br /><a href="#ideas-ali-alnasser570" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://blog.auryn.dev"><img src="https://avatars.githubusercontent.com/u/24471955?v=4?s=100" width="100px;" alt="Auryn Engel"/><br /><sub><b>Auryn Engel</b></sub></a><br /><a href="#video-auryn31" title="Videos">📹</a></td>
     </tr>
   </tbody>
 </table>
